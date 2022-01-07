@@ -30,7 +30,7 @@
    - *Source Code Management:*
       - Repository: `https://github.com/yankils/hello-world.git`
       - Branches to build : `*/master`  
-   - *Poll SCM* :      - `* * * *`
+   - *Poll SCM* :      - `* * * *` or */2 * * * *
 
    - *Build:*
      - Root POM:`pom.xml`
